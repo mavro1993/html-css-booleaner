@@ -39,6 +39,11 @@ img {
     height: 20px;
 }
 
+.height-skyblue {
+    background-color: skyblue;
+    height: 20px;
+}
+
 .grey {
     color: grey;
 }
