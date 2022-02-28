@@ -4,6 +4,63 @@
     box-sizing: border-box;
 }
 
-.pattern {
-    background-image: url(.img/);
+.logo {
+    height: 150px;
+    background-color: skyblue;
+    background-image: url(../img/pattern.png);
+}
+
+.logo-position {
+    width: 300px;
+    height: 200px;
+}
+
+.skyblue {
+    color: skyblue;
+}
+
+img {
+    margin-top: 15px;
+    margin-left: 2px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.distance {
+    height: 20px;
+    background-color: blue;
+    color: white;
+    width: 500px;
+}
+
+.height {
+    height: 20px;
+}
+
+.grey {
+    color: grey;
+}
+
+.size {
+    margin: 20px;
+    font-size: 2em;
+    color: white;
+}
+
+.image-1 {
+    width: 350px;
+    height: 300px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image-2 {
+    width: 350px;
+    height: 300px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
